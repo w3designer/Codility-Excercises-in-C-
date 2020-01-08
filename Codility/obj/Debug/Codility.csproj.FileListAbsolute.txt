@@ -1,0 +1,11 @@
+C:\Users\JM\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Codility.exe.config
+C:\Users\JM\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Codility.exe
+C:\Users\JM\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Codility.pdb
+C:\Users\JM\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Codility.exe
+C:\Users\JM\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Codility.pdb
+C:\Users\JM\source\repos\ConsoleApp1\Codility\bin\Debug\Codility.exe.config
+C:\Users\JM\source\repos\ConsoleApp1\Codility\bin\Debug\Codility.exe
+C:\Users\JM\source\repos\ConsoleApp1\Codility\bin\Debug\Codility.pdb
+C:\Users\JM\source\repos\ConsoleApp1\Codility\obj\Debug\Codility.csprojAssemblyReference.cache
+C:\Users\JM\source\repos\ConsoleApp1\Codility\obj\Debug\Codility.exe
+C:\Users\JM\source\repos\ConsoleApp1\Codility\obj\Debug\Codility.pdb
